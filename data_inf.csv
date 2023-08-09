@@ -1,0 +1,11 @@
+,avg_transaction_value,points_in_wallet,membership_category,feedback,churn_risk_score
+0,45030.15,620.14,No Membership,Poor Customer Service,1
+1,38243.59,692.87,No Membership,No reason specified,1
+2,23176.72,674.08,Basic Membership,No reason specified,1
+3,6846.24,301.3142648570033,Basic Membership,Poor Website,1
+4,23425.7,709.79,Premium Membership,User Friendly Website,0
+5,18876.52,706.68,Silver Membership,Too many ads,0
+6,24139.82,750.73,Platinum Membership,Poor Product Quality,0
+7,42001.8,840.13,Platinum Membership,User Friendly Website,0
+8,69495.4,792.79,Premium Membership,Quality Customer Care,0
+9,18252.15,708.4,Premium Membership,Reasonable Price,0
